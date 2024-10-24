@@ -1,4 +1,4 @@
 # First-Project
 My first website!!
 <br>
-Author - Sarthak
+Author - Sarthak Mirchandani
