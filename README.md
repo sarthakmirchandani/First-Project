@@ -2,4 +2,4 @@
 My first website!!
 <br>
 Author - Sarthak Mirchandani
-The Inquisitive Way
+The Inquisitive Way, Million dollar company
